@@ -44,5 +44,3 @@ A simple sliding tile game inspired by the popular 2048 puzzle. Players slide nu
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are always welcome!
 
 ---
-
-This version reflects the classic 2048 game style. Let me know if you need more adjustments!
