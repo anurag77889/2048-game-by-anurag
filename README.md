@@ -1,11 +1,4 @@
 ﻿# 2048-game-by-anurag
-
- Here’s the updated README content with the game named "2048 Game":
-
----
-
-# 2048 Game
-
 A simple sliding tile game inspired by the popular 2048 puzzle. Players slide numbered tiles on a 4x4 grid, merging tiles with the same number to create larger values. The goal is to reach 2048 or beyond while keeping the board from filling up!
 
 ## 🎮 How to Play
